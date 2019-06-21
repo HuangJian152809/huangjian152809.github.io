@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-21T05:43:50.468Z</updated>
+  <updated>2019-06-21T05:49:33.027Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/06/21/hello/"/>
+    <id>http://yoursite.com/2019/06/21/hello/</id>
+    <published>2019-06-21T05:48:37.613Z</published>
+    <updated>2019-06-21T05:49:33.027Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>$$<br>\begin{equation}<br>\begin{split}<br>\frac{\partial^2 f}{\partial{x^2}} &amp;= \frac{\partial(\Delta_x f(i,j))}{\partial x} = \frac{\partial(f(i+1,j)-f(i,j))}{\partial x} \\<br>&amp;= \frac{\partial f(i+1,j)}{\partial x} - \frac{\partial f(i,j)}{\partial x} \\<br>&amp;= f(i+2,j) -2f(f+1,j) + f(i,j)<br>\end{split}<br>\nonumber<br>\end{equation}<br>$$</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="mathjax" scheme="http://yoursite.com/categories/mathjax/"/>
+    
+    
+      <category term="mathjax" scheme="http://yoursite.com/tags/mathjax/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
