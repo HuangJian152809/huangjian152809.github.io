@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-21T05:49:33.027Z</updated>
+  <updated>2019-06-21T06:16:46.205Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,27 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/06/21/hello/"/>
-    <id>http://yoursite.com/2019/06/21/hello/</id>
-    <published>2019-06-21T05:48:37.613Z</published>
-    <updated>2019-06-21T05:49:33.027Z</updated>
+    <title>杜亥姆-马居耳公式(Duhem-Margule equations)及其应用</title>
+    <link href="http://yoursite.com/2019/06/21/%E6%9D%9C%E4%BA%A5%E5%A7%86-%E9%A9%AC%E5%B1%85%E8%80%B3%E5%85%AC%E5%BC%8F(Duhem-Margule%20equations)%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/"/>
+    <id>http://yoursite.com/2019/06/21/杜亥姆-马居耳公式(Duhem-Margule equations)及其应用/</id>
+    <published>2019-06-21T06:07:39.000Z</published>
+    <updated>2019-06-21T06:16:46.205Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>$$<br>\begin{equation}<br>\begin{split}<br>\frac{\partial^2 f}{\partial{x^2}} &amp;= \frac{\partial(\Delta_x f(i,j))}{\partial x} = \frac{\partial(f(i+1,j)-f(i,j))}{\partial x} \\<br>&amp;= \frac{\partial f(i+1,j)}{\partial x} - \frac{\partial f(i,j)}{\partial x} \\<br>&amp;= f(i+2,j) -2f(f+1,j) + f(i,j)<br>\end{split}<br>\nonumber<br>\end{equation}<br>$$</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="杜亥姆-马居耳公式-Duhem-Margule-equations-及其应用"><a href="#杜亥姆-马居耳公式-Duhem-Margule-equations-及其应用" class="headerlink" title="杜亥姆-马居耳公式(Duhem-Margule equations)及其应用"></a>杜亥姆-马居耳公式(Duhem-Margule equations)及其应用</h1><h2 id="定理"><a href="#定理" class="headerlink" title="定理"></a>定理</h2><h3 id="杜亥姆-马居耳公式"><a href="#杜亥姆-马居耳公式" class="headerlink" title="杜亥姆-马居耳公式"></a>杜亥姆-马居耳公式</h3><p>$$<br>a+b=c<br>$$</p><a id="more"></a><p>该公式表示各组分的分压与组成之间的关系。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      &lt;h1 id=&quot;杜亥姆-马居耳公式-Duhem-Margule-equations-及其应用&quot;&gt;&lt;a href=&quot;#杜亥姆-马居耳公式-Duhem-Margule-equations-及其应用&quot; class=&quot;headerlink&quot; title=&quot;杜亥姆-马居耳公式(Duhem-Margule equations)及其应用&quot;&gt;&lt;/a&gt;杜亥姆-马居耳公式(Duhem-Margule equations)及其应用&lt;/h1&gt;&lt;h2 id=&quot;定理&quot;&gt;&lt;a href=&quot;#定理&quot; class=&quot;headerlink&quot; title=&quot;定理&quot;&gt;&lt;/a&gt;定理&lt;/h2&gt;&lt;h3 id=&quot;杜亥姆-马居耳公式&quot;&gt;&lt;a href=&quot;#杜亥姆-马居耳公式&quot; class=&quot;headerlink&quot; title=&quot;杜亥姆-马居耳公式&quot;&gt;&lt;/a&gt;杜亥姆-马居耳公式&lt;/h3&gt;&lt;p&gt;$$&lt;br&gt;a+b=c&lt;br&gt;$$&lt;/p&gt;
     
     </summary>
     
-      <category term="mathjax" scheme="http://yoursite.com/categories/mathjax/"/>
+      <category term="物理化学" scheme="http://yoursite.com/categories/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6/"/>
     
     
-      <category term="mathjax" scheme="http://yoursite.com/tags/mathjax/"/>
+      <category term="-杜亥姆-马居耳公式 -物理化学" scheme="http://yoursite.com/tags/%E6%9D%9C%E4%BA%A5%E5%A7%86-%E9%A9%AC%E5%B1%85%E8%80%B3%E5%85%AC%E5%BC%8F-%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6/"/>
     
   </entry>
   
@@ -48,7 +45,7 @@
     <published>2019-06-17T14:07:37.156Z</published>
     <updated>2019-06-21T05:43:50.468Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><p>$$<br>a+b=c<br>$$</p><p>\LATEX</p><p>$$ a+b=c $$</p><p>\LATEX{}<br>\LaTeX{}</p><p>$$<br>\begin{equation}<br>\begin{split}<br>\frac{\partial^2 f}{\partial{x^2}} &amp;= \frac{\partial(\Delta_x f(i,j))}{\partial x} = \frac{\partial(f(i+1,j)-f(i,j))}{\partial x} \\<br>&amp;= \frac{\partial f(i+1,j)}{\partial x} - \frac{\partial f(i,j)}{\partial x} \\<br>&amp;= f(i+2,j) -2f(f+1,j) + f(i,j)<br>\end{split}<br>\nonumber<br>\end{equation}<br>$$</p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><script type="math/tex; mode=display">a+b=c</script><p>\LATEX</p><script type="math/tex; mode=display">a+b=c</script><p>\LATEX{}<br>\LaTeX{}</p><script type="math/tex; mode=display">\begin{equation}\begin{split}\frac{\partial^2 f}{\partial{x^2}} &= \frac{\partial(\Delta_x f(i,j))}{\partial x} = \frac{\partial(f(i+1,j)-f(i,j))}{\partial x} \\\\&= \frac{\partial f(i+1,j)}{\partial x} - \frac{\partial f(i,j)}{\partial x} \\\\&= f(i+2,j) -2f(f+1,j) + f(i,j)\end{split}\nonumber\end{equation}</script><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     

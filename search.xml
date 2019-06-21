@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F06%2F21%2Fhello%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick Start$$\begin{equation}\begin{split}\frac{\partial^2 f}{\partial{x^2}} &amp;= \frac{\partial(\Delta_x f(i,j))}{\partial x} = \frac{\partial(f(i+1,j)-f(i,j))}{\partial x} \\&amp;= \frac{\partial f(i+1,j)}{\partial x} - \frac{\partial f(i,j)}{\partial x} \\&amp;= f(i+2,j) -2f(f+1,j) + f(i,j)\end{split}\nonumber\end{equation}$$]]></content>
+    <title><![CDATA[杜亥姆-马居耳公式(Duhem-Margule equations)及其应用]]></title>
+    <url>%2F2019%2F06%2F21%2F%E6%9D%9C%E4%BA%A5%E5%A7%86-%E9%A9%AC%E5%B1%85%E8%80%B3%E5%85%AC%E5%BC%8F(Duhem-Margule%20equations)%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%2F</url>
+    <content type="text"><![CDATA[杜亥姆-马居耳公式(Duhem-Margule equations)及其应用定理杜亥姆-马居耳公式$$a+b=c$$ 该公式表示各组分的分压与组成之间的关系。]]></content>
       <categories>
-        <category>mathjax</category>
+        <category>物理化学</category>
       </categories>
       <tags>
-        <tag>mathjax</tag>
+        <tag>-杜亥姆-马居耳公式 -物理化学</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F06%2F17%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating $$a+b=c$$ \LATEX $$ a+b=c $$ \LATEX{}\LaTeX{} $$\begin{equation}\begin{split}\frac{\partial^2 f}{\partial{x^2}} &amp;= \frac{\partial(\Delta_x f(i,j))}{\partial x} = \frac{\partial(f(i+1,j)-f(i,j))}{\partial x} \\&amp;= \frac{\partial f(i+1,j)}{\partial x} - \frac{\partial f(i,j)}{\partial x} \\&amp;= f(i+2,j) -2f(f+1,j) + f(i,j)\end{split}\nonumber\end{equation}$$ Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating a+b=c\LATEX a+b=c\LATEX{}\LaTeX{} \begin{equation} \begin{split} \frac{\partial^2 f}{\partial{x^2}} &= \frac{\partial(\Delta_x f(i,j))}{\partial x} = \frac{\partial(f(i+1,j)-f(i,j))}{\partial x} \\\\ &= \frac{\partial f(i+1,j)}{\partial x} - \frac{\partial f(i,j)}{\partial x} \\\\ &= f(i+2,j) -2f(f+1,j) + f(i,j) \end{split} \nonumber \end{equation}Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
