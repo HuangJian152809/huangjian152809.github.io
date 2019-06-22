@@ -1774,7 +1774,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #985d21;
+  background: #f6ffe9;
 }
 .feed-link,
 .chat {
@@ -2974,4 +2974,15 @@ ul.breadcrumb li+li:last-child {
 }
 .post-toc ol {
   font-size: 13px;
+}
+@media screen and (min-width: 1200px) {
+  body {
+    background-image: url("/images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+  }
+  #footer a {
+    color: #eee;
+  }
 }
