@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-22T14:42:20.119Z</updated>
+  <updated>2019-06-22T14:46:25.952Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/06/21/hello/"/>
     <id>http://yoursite.com/2019/06/21/hello/</id>
     <published>2019-06-21T06:07:39.000Z</published>
-    <updated>2019-06-22T14:42:20.119Z</updated>
+    <updated>2019-06-22T14:46:25.952Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>]]></content>
     
@@ -41,6 +41,8 @@
     
       <category term="物理化学" scheme="http://yoursite.com/tags/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6/"/>
     
+      <category term="$\LaTeX$" scheme="http://yoursite.com/tags/LaTeX/"/>
+    
   </entry>
   
   <entry>
@@ -48,7 +50,7 @@
     <link href="http://yoursite.com/2019/06/21/%E6%9D%9C%E4%BA%A5%E5%A7%86-%E9%A9%AC%E5%B1%85%E8%80%B3%E5%85%AC%E5%BC%8F(Duhem-Margule%20equations)%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/"/>
     <id>http://yoursite.com/2019/06/21/杜亥姆-马居耳公式(Duhem-Margule equations)及其应用/</id>
     <published>2019-06-21T06:07:39.000Z</published>
-    <updated>2019-06-22T13:31:21.200Z</updated>
+    <updated>2019-06-22T14:46:04.438Z</updated>
     
     <content type="html"><![CDATA[<h2 id="定理"><a href="#定理" class="headerlink" title="定理"></a>定理</h2><h3 id="杜亥姆-马居耳公式"><a href="#杜亥姆-马居耳公式" class="headerlink" title="杜亥姆-马居耳公式"></a>杜亥姆-马居耳公式</h3><p>$$<br>{x_A}d{\mu _A} + {x_B}d{\mu _B} = 0<br>$$</p><a id="more"></a><p>该公式表示各组分的分压与组成之间的关系。</p>]]></content>
     
@@ -64,6 +66,8 @@
       <category term="杜亥姆-马居耳公式" scheme="http://yoursite.com/tags/%E6%9D%9C%E4%BA%A5%E5%A7%86-%E9%A9%AC%E5%B1%85%E8%80%B3%E5%85%AC%E5%BC%8F/"/>
     
       <category term="物理化学" scheme="http://yoursite.com/tags/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6/"/>
+    
+      <category term="LaTeX" scheme="http://yoursite.com/tags/LaTeX/"/>
     
   </entry>
   
