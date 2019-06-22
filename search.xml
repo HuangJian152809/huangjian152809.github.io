@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello]]></title>
-    <url>%2F2019%2F06%2F22%2Fhello%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post]]></content>
+    <title><![CDATA[hello]]></title>
+    <url>%2F2019%2F06%2F21%2Fhello%2F</url>
+    <content type="text"><![CDATA[Quick StartCreate a new post]]></content>
       <categories>
-        <category>\LaTeX</category>
+        <category>物理化学</category>
       </categories>
       <tags>
-        <tag>$\LaTeX$</tag>
+        <tag>杜亥姆-马居耳公式</tag>
+        <tag>物理化学</tag>
       </tags>
   </entry>
   <entry>
