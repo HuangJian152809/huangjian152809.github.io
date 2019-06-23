@@ -1778,7 +1778,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7cfee0;
+  background: #c87499;
 }
 .feed-link,
 .chat {
@@ -2989,4 +2989,54 @@ ul.breadcrumb li+li:last-child {
   #footer a {
     color: #eee;
   }
+}
+::selection {
+  background: #00c4b6;
+  color: #f7f7f7;
+}
+::-moz-selection {
+  background: #00c4b6;
+  color: #f7f7f7;
+}
+.headband {
+  height: 3px;
+  background: #49b1f5;
+}
+.site-meta {
+  padding: 20px 0;
+  color: #fff;
+  background: #49b1f5;
+}
+.site-subtitle {
+  margin-top: 10px;
+  font-size: 13px;
+  color: #fff;
+}
+.btn {
+  color: #49b1f5;
+  background: #fff;
+  border: 2px solid #49b1f5;
+}
+.btn:hover {
+  border-color: #49b1f5;
+  color: #fff;
+  background: #49b1f5;
+}
+.posts-expand .post-title-link::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #49b1f5;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  -moz-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  -o-transform: scaleX(0);
+  transform: scaleX(0);
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+  transition-delay: 0s;
 }
