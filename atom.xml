@@ -46,15 +46,15 @@
     <link href="http://yoursite.com/2019/06/21/hello/"/>
     <id>http://yoursite.com/2019/06/21/hello/</id>
     <published>2019-06-21T06:07:39.000Z</published>
-    <updated>2019-06-23T05:26:55.894Z</updated>
+    <updated>2019-06-23T05:29:38.157Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p><a href="hello/logo.jpg" title="hello">!he</a></p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>]]></content>
+    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p><img src="/.com//logo.jpg" alt="he" title="hello"></p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;hello/logo.jpg&quot; title=&quot;he
+        &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/.com//logo.jpg&quot; alt=&quot;he
       
     
     </summary>
