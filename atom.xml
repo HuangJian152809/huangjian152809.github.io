@@ -46,13 +46,13 @@
     <link href="http://yoursite.com/2019/06/21/hello/"/>
     <id>http://yoursite.com/2019/06/21/hello/</id>
     <published>2019-06-21T06:07:39.000Z</published>
-    <updated>2019-06-23T14:08:16.565Z</updated>
+    <updated>2019-06-23T14:13:08.573Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p><img src="http://gallery.china-vo.org/u/img/background/20140515003.jpg" alt="星空"></p><p><img src="/images/1.jpg" alt="星空" title="星空"></p><a id="more"></a><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><p><a href="https://www.jianshu.com/p/3a05351a37dc" target="_blank" rel="noopener">星空</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p><img src="http://gallery.china-vo.org/u/img/background/20140515003.jpg" alt="星空" title="星系"></p><p><img src="/images/1.jpg" alt="星空" title="星空"></p><a id="more"></a><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><p><a href="https://www.jianshu.com/p/3a05351a37dc" target="_blank" rel="noopener">星空</a></p>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://gallery.china-vo.org/u/img/background/20140515003.jpg&quot; alt=&quot;星空&quot;&gt;&lt;/p&gt;
+      &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://gallery.china-vo.org/u/img/background/20140515003.jpg&quot; alt=&quot;星空&quot; title=&quot;星系&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/1.jpg&quot; alt=&quot;星空&quot; title=&quot;星空&quot;&gt;&lt;/p&gt;
     
     </summary>
@@ -69,13 +69,13 @@
     <link href="http://yoursite.com/2019/06/21/%E6%9D%9C%E4%BA%A5%E5%A7%86-%E9%A9%AC%E5%B1%85%E8%80%B3%E5%85%AC%E5%BC%8F(Duhem-Margule%20equations)%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/"/>
     <id>http://yoursite.com/2019/06/21/杜亥姆-马居耳公式(Duhem-Margule equations)及其应用/</id>
     <published>2019-06-21T06:07:39.000Z</published>
-    <updated>2019-06-23T14:00:51.125Z</updated>
+    <updated>2019-06-23T14:18:43.440Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="定理"><a href="#定理" class="headerlink" title="定理"></a>定理</h2><h3 id="杜亥姆—马居耳公式"><a href="#杜亥姆—马居耳公式" class="headerlink" title=" 杜亥姆—马居耳公式 "></a><font color="#0000FF" size="5"> 杜亥姆—马居耳公式 </font></h3><p>该公式表示各组分的分压与组成之间的关系。</p><a id="more"></a><h2 id="证明"><a href="#证明" class="headerlink" title="证明"></a>证明</h2><p>对于双组分溶液的吉布斯-杜亥姆公式为:</p><p>因为:</p><p>恒温恒压下:</p><p>所以:</p><p>又:</p><p>则:</p><h2 id="应用1-若组分A服从拉乌尔定律，组分B则服从亨利定律"><a href="#应用1-若组分A服从拉乌尔定律，组分B则服从亨利定律" class="headerlink" title="应用1:若组分A服从拉乌尔定律，组分B则服从亨利定律"></a>应用1:若组分A服从拉乌尔定律，组分B则服从亨利定律</h2><p>根据拉乌尔定律<br>$$<br>{p_A} = p_A^*{x_A}<br>$$</p><p>则:</p><p>所以:</p><p>积分得:</p><p>服从亨利定律</p><h2 id="应用2"><a href="#应用2" class="headerlink" title="应用2"></a>应用2</h2><p>在溶液中增加某一组分的浓度，则它在气相的分压升高，另一组分则降低，反之亦然。<br>若</p><p>则</p><p>又</p><p>所以</p><h2 id="应用3-科诺瓦洛夫规则-Konovalov-Rule"><a href="#应用3-科诺瓦洛夫规则-Konovalov-Rule" class="headerlink" title="应用3:科诺瓦洛夫规则(Konovalov Rule)"></a>应用3:科诺瓦洛夫规则(Konovalov Rule)</h2><p>设体系中没有惰性气体，则</p><p>代入</p><p>整理得</p><ol><li>若浓度大于液相中的浓度。</li></ol>]]></content>
+    <content type="html"><![CDATA[<h2 id="定理"><a href="#定理" class="headerlink" title="定理"></a>定理</h2><h3 id="杜亥姆—马居耳公式"><a href="#杜亥姆—马居耳公式" class="headerlink" title="杜亥姆—马居耳公式"></a>杜亥姆—马居耳公式</h3><p>该公式表示各组分的分压与组成之间的关系。</p><a id="more"></a><h2 id="证明"><a href="#证明" class="headerlink" title="证明"></a>证明</h2><p>对于双组分溶液的吉布斯-杜亥姆公式为:</p><p>${x_A}d{\mu _A} + {x_B}d{\mu _B} = 0$</p><p>因为:</p><p>恒温恒压下:</p><p>所以:</p><p>又:</p><p>则:</p><h2 id="应用1-若组分A服从拉乌尔定律，组分B则服从亨利定律"><a href="#应用1-若组分A服从拉乌尔定律，组分B则服从亨利定律" class="headerlink" title="应用1:若组分A服从拉乌尔定律，组分B则服从亨利定律"></a>应用1:若组分A服从拉乌尔定律，组分B则服从亨利定律</h2><p>根据拉乌尔定律<br>$$<br>{p_A} = p_A^*{x_A}<br>$$</p><p>则:</p><p>所以:</p><p>积分得:</p><p>服从亨利定律</p><h2 id="应用2"><a href="#应用2" class="headerlink" title="应用2"></a>应用2</h2><p>在溶液中增加某一组分的浓度，则它在气相的分压升高，另一组分则降低，反之亦然。<br>若</p><p>则</p><p>又</p><p>所以</p><h2 id="应用3-科诺瓦洛夫规则-Konovalov-Rule"><a href="#应用3-科诺瓦洛夫规则-Konovalov-Rule" class="headerlink" title="应用3:科诺瓦洛夫规则(Konovalov Rule)"></a>应用3:科诺瓦洛夫规则(Konovalov Rule)</h2><p>设体系中没有惰性气体，则</p><p>代入</p><p>整理得</p><ol><li>若浓度大于液相中的浓度。</li></ol>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;定理&quot;&gt;&lt;a href=&quot;#定理&quot; class=&quot;headerlink&quot; title=&quot;定理&quot;&gt;&lt;/a&gt;定理&lt;/h2&gt;&lt;h3 id=&quot;杜亥姆—马居耳公式&quot;&gt;&lt;a href=&quot;#杜亥姆—马居耳公式&quot; class=&quot;headerlink&quot; title=&quot; 杜亥姆—马居耳公式 &quot;&gt;&lt;/a&gt;&lt;font color=&quot;#0000FF&quot; size=&quot;5&quot;&gt; 杜亥姆—马居耳公式 &lt;/font&gt;&lt;/h3&gt;&lt;p&gt;该公式表示各组分的分压与组成之间的关系。&lt;/p&gt;
+      &lt;h2 id=&quot;定理&quot;&gt;&lt;a href=&quot;#定理&quot; class=&quot;headerlink&quot; title=&quot;定理&quot;&gt;&lt;/a&gt;定理&lt;/h2&gt;&lt;h3 id=&quot;杜亥姆—马居耳公式&quot;&gt;&lt;a href=&quot;#杜亥姆—马居耳公式&quot; class=&quot;headerlink&quot; title=&quot;杜亥姆—马居耳公式&quot;&gt;&lt;/a&gt;杜亥姆—马居耳公式&lt;/h3&gt;&lt;p&gt;该公式表示各组分的分压与组成之间的关系。&lt;/p&gt;
     
     </summary>
     
