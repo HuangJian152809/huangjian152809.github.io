@@ -17,7 +17,7 @@
   <entry>
     <title><![CDATA[hj]]></title>
     <url>%2F2019%2F06%2F23%2Fhj%2F</url>
-    <content type="text"><![CDATA[ddd hhhhhhhhhh ddd]]></content>
+    <content type="text"><![CDATA[ddd hhhhhhhhhhjjjj ddd]]></content>
       <tags>
         <tag>hj</tag>
       </tags>
@@ -36,7 +36,7 @@
   <entry>
     <title><![CDATA[杜亥姆-马居耳公式(Duhem-Margule equations)及其应用]]></title>
     <url>%2F2019%2F06%2F21%2F%E6%9D%9C%E4%BA%A5%E5%A7%86-%E9%A9%AC%E5%B1%85%E8%80%B3%E5%85%AC%E5%BC%8F(Duhem-Margule%20equations)%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%2F</url>
-    <content type="text"><![CDATA[定理杜亥姆—马居耳公式该公式表示各组分的分压与组成之间的关系。 证明对于双组分溶液的吉布斯-杜亥姆公式为: {x_A}d{\mu _A} + {x_B}d{\mu _B} = 0因为: 恒温恒压下: d{\mu _i} = RTd\ln {p_i}&lt;/escape&gt;&lt;/escape&gt;所以: 又: 则: 应用1:若组分A服从拉乌尔定律，组分B则服从亨利定律根据拉乌尔定律 {p_A} = p_A^*{x_A}则: 所以: 积分得: 服从亨利定律 应用2在溶液中增加某一组分的浓度，则它在气相的分压升高，另一组分则降低，反之亦然。若 则 又 所以 应用3:科诺瓦洛夫规则(Konovalov Rule)设体系中没有惰性气体，则 代入 整理得 若浓度大于液相中的浓度。]]></content>
+    <content type="text"><![CDATA[定理杜亥姆—马居耳公式该公式表示各组分的分压与组成之间的关系。 证明对于双组分溶液的吉布斯-杜亥姆公式为:$${x_A}d{\mu _A} + {x_B}d{\mu _B} = 0$$ 因为: 恒温恒压下:$$d{\mu _i} = RTd\ln {p_i}$$ 所以: 又: 则: 应用1:若组分A服从拉乌尔定律，组分B则服从亨利定律根据拉乌尔定律$${p_A} = p_A^*{x_A}$$ 则: 所以: 积分得: 服从亨利定律 应用2在溶液中增加某一组分的浓度，则它在气相的分压升高，另一组分则降低，反之亦然。若 则 又 所以 应用3:科诺瓦洛夫规则(Konovalov Rule)设体系中没有惰性气体，则 代入 整理得 若浓度大于液相中的浓度。]]></content>
       <categories>
         <category>化学</category>
         <category>物理化学</category>
