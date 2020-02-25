@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-25T03:58:19.923Z</updated>
+  <updated>2020-02-25T05:01:26.961Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,24 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>重排</title>
+    <title>Sommelet–Hauser重排反应</title>
     <link href="http://yoursite.com/2020/02/25/%E9%87%8D%E6%8E%92/"/>
     <id>http://yoursite.com/2020/02/25/重排/</id>
     <published>2020-02-25T03:03:50.000Z</published>
-    <updated>2020-02-25T03:58:19.923Z</updated>
+    <updated>2020-02-25T05:01:26.961Z</updated>
     
-    <content type="html"><![CDATA[<p>重排有机化学反应</p>]]></content>
+    <content type="html"><![CDATA[<p>Sommelet-Hauser重排反应（Sommelet-Hauser rearrangement），以M.Sommelet和Charles R. Hauser的名字命名。</p><p>某些苄基季铵盐用氨基钠或其他碱金属氨基盐处理，发生重排，一个烃基迁移至芳环上的邻位，得到相应的N-二烃基苄基胺类。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;重排有机化学反应&lt;/p&gt;
-
+        &lt;p&gt;Sommelet-Hauser重排反应（Sommelet-Hauser rearrangement），以M.Sommelet和Charles R. Hauser的名字命名。&lt;/p&gt;
+&lt;p&gt;某些苄基季铵盐用氨基钠或其他碱金属氨基盐处理，发生重排，一个烃基迁移至芳环上的邻位，得
       
     
     </summary>
     
+      <category term="化学" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6/"/>
+    
+      <category term="有机化学" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/"/>
+    
+      <category term="有机人名反应" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/%E6%9C%89%E6%9C%BA%E4%BA%BA%E5%90%8D%E5%8F%8D%E5%BA%94/"/>
+    
+      <category term="重排反应" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/%E6%9C%89%E6%9C%BA%E4%BA%BA%E5%90%8D%E5%8F%8D%E5%BA%94/%E9%87%8D%E6%8E%92%E5%8F%8D%E5%BA%94/"/>
+    
+    
+      <category term="有机人名反应" scheme="http://yoursite.com/tags/%E6%9C%89%E6%9C%BA%E4%BA%BA%E5%90%8D%E5%8F%8D%E5%BA%94/"/>
+    
+      <category term="有机化学" scheme="http://yoursite.com/tags/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/"/>
+    
+      <category term="重排反应" scheme="http://yoursite.com/tags/%E9%87%8D%E6%8E%92%E5%8F%8D%E5%BA%94/"/>
     
   </entry>
   
